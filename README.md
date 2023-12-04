@@ -6,6 +6,6 @@ Developed with Unreal Engine 4.27.2
 
 演示视频：
 
-<iframe src="//player.bilibili.com/player.html?aid=743125068&bvid=BV16k4y1K7E6&cid=1190724405&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+【48小时极限开发的双人3D闯关游戏《DoNotTouchMe》 CiGA GameJam 2023】 https://www.bilibili.com/video/BV16k4y1K7E6/?share_source=copy_web&vd_source=241c57db77578084382bda1cfd8ef39d
 
 涉及到的技术栈：状态机、AI行为树
